@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sboogaard/adonixstatic/css/main.abe33178.chunk.css",
+    "main.js": "/sboogaard/adonixstatic/js/main.aae3553f.chunk.js",
+    "main.js.map": "/sboogaard/adonixstatic/js/main.aae3553f.chunk.js.map",
+    "runtime-main.js": "/sboogaard/adonixstatic/js/runtime-main.8f763ae2.js",
+    "runtime-main.js.map": "/sboogaard/adonixstatic/js/runtime-main.8f763ae2.js.map",
+    "static/js/2.923cf715.chunk.js": "/sboogaard/adonixstatic/js/2.923cf715.chunk.js",
+    "static/js/2.923cf715.chunk.js.map": "/sboogaard/adonixstatic/js/2.923cf715.chunk.js.map",
+    "index.html": "/sboogaard/adonixindex.html",
+    "static/css/main.abe33178.chunk.css.map": "/sboogaard/adonixstatic/css/main.abe33178.chunk.css.map",
+    "static/js/2.923cf715.chunk.js.LICENSE.txt": "/sboogaard/adonixstatic/js/2.923cf715.chunk.js.LICENSE.txt",
+    "static/media/boy.png": "/sboogaard/adonixstatic/media/boy.046524d3.png",
+    "static/media/test.jpeg": "/sboogaard/adonixstatic/media/test.26004811.jpeg",
+    "static/media/video.a2703484.mp4": "/sboogaard/adonixstatic/media/video.a2703484.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f763ae2.js",
+    "static/js/2.923cf715.chunk.js",
+    "static/css/main.abe33178.chunk.css",
+    "static/js/main.aae3553f.chunk.js"
+  ]
+}
